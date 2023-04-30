@@ -1,2 +1,2 @@
-# Singl eCell data analysis
+# Single Cell data analysis
 Project on the modern techniques and good practices for the analysis of single-cell data.
