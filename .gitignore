@@ -1,3 +1,11 @@
 scda/
 data/
 scanpy-tutorials/
+
+*.tar.gz
+*.zip
+*.tar
+*.mtx
+*.h5ad
+*.tsv
+*.csv
